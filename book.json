@@ -1,3 +1,13 @@
 {
-    "plugins": ["chapter-fold"]
+    "plugins": [
+        "chapter-fold",
+        "-search",
+        "search-pro"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
+    }
 }
