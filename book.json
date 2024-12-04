@@ -1,5 +1,7 @@
 {
     "plugins": [
+        "-lunr",
+        "chapter-fold",
         "-search",
         "search-pro"
     ],
