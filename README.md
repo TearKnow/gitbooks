@@ -2,8 +2,9 @@
 
 
 ## 1. 准备工作
+安装gitbook-cli，运行 `npm install -g gitbook-cli`
 
-node版本是10.14.1，使用nvm
+node版本是10.14.1，使用nvm，mac也可以使用nvm
 
 
 ## 2. gitbook基本操作
