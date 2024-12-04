@@ -3,7 +3,8 @@
         "-lunr",
         "chapter-fold",
         "-search",
-        "search-pro"
+        "search-pro",
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "search-pro": {
